@@ -1,0 +1,5 @@
+{
+  "name": "LibertyTour Ops",
+  "description": "Internal Operational System for LibertyTour management. Centralized dashboard for Admins, Dispatchers, and Partners.",
+  "requestFramePermissions": []
+}
